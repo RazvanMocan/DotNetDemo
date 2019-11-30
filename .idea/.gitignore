@@ -1,3 +1,5 @@
 
 # Default ignored files
 /.idea.FirstAPI/.idea/workspace.xml
+# Datasource local storage ignored files
+/.idea.FirstAPI/.idea/dataSources/
